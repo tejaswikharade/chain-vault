@@ -1,5 +1,7 @@
 # ChainVault
 
+> **[Open the live demo →](https://tejaswikharade.github.io/chain-vault/)**
+
 An intentionally small, auditable ETH time-lock vault. The owner funds it once; a designated beneficiary can release the balance once the unlock timestamp arrives. Before then, the owner may cancel and recover the funds.
 
 ## Contract guarantees
